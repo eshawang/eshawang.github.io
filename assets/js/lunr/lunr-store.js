@@ -107,13 +107,13 @@ var store = [{
         "url": "/photographyposttest/",
         "teaser": null
       },{
-        "title": "FC Meetup in Norcal",
+        "title": "Unions and Reunions",
         "excerpt":"May 25, 2021 - June 1, 2021 After spending many months at home working, cooking, and playing FFXIV, E + K finally got vaccinated and visited Norcal to see friends and K’s family for the first time since moving to NJ a year ago. S and K’s parents picked us...","categories": [],
         "tags": ["travel"],
         "url": "/norcal-2021-05-25/",
         "teaser": null
       },{
-        "title": "Weekend in NYC",
+        "title": "An Immersive NYC Experience",
         "excerpt":"June 12, 2021 E + K took the train to 14th street and got their first cronut ever from The Donut Pub. Our original plan was to grab the usual staples from Chelsea Market (lobster roll from The Lobster Place, dumplings from Mokbar Korean Grub), but were enticed by a...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2021-06-12/",
@@ -125,7 +125,7 @@ var store = [{
         "url": "/newyork-2021-06-18/",
         "teaser": null
       },{
-        "title": "Birthday Weekend",
+        "title": "E's Birthday Weekend",
         "excerpt":"June 25, 2021 For E’s birthday, K planned an evening out in Greenwich Village. Right off the 9th street station, we visited Té Company for a box of Pineapple Linzer cookies before our dinner reservation at Pinto Garden. K did something embarrassing once again and was punished by E ordering...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2021-06-25/",
