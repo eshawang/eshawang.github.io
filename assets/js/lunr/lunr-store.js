@@ -130,4 +130,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2021-06-25/",
         "teaser": null
+      },{
+        "title": "Independence Day in the Poconos",
+        "excerpt":"July 3, 2021 - July 5, 2021 For the July 4th weekend, E + K planned a nice, naturey getaway to the Poconos. On Saturday morning, K grabbed breakfast from Philippine Bread House, and E happily woke up to the sight of lumpia, pork adobo, and sausage with eggs. After...","categories": [],
+        "tags": ["travel"],
+        "url": "/poconos-2021-07-03/",
+        "teaser": null
       }]
