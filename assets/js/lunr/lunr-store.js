@@ -136,4 +136,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/poconos-2021-07-03/",
         "teaser": null
+      },{
+        "title": "Meetup with PJ + IY",
+        "excerpt":"July 9, 2021 On Friday, E + K met up with PJ + IY in NYC. We visited Little Island near Chelsea, where we drank very unsweetened lemonade, watched an improv group, and laughed at New Yorkers taking pictures of the NJ skyline. Afterwards, IY left to hang out with...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-07-09/",
+        "teaser": null
       }]
