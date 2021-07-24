@@ -142,4 +142,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2021-07-09/",
         "teaser": null
+      },{
+        "title": "Rainy day at Smorgasburg",
+        "excerpt":"July 17, 2021 - July 18, 2021 E + K started their Saturday with a morning swim at the pool, then headed to Smorgasburg in Jersey City to offset the brutal calorie loss. We started with a Classico and spinach fried risotto balls from The Little Sicilian, then ordered a...","categories": [],
+        "tags": ["travel"],
+        "url": "/smorgasburg-2021-07-17/",
+        "teaser": null
       }]
