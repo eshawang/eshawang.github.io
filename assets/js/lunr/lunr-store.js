@@ -148,4 +148,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/smorgasburg-2021-07-17/",
         "teaser": null
+      },{
+        "title": "FC Meetup in Philly",
+        "excerpt":"July 24, 2021 - July 25, 2021 E + K planned a trip to Philadelphia for the weekend to meet Relyx + A. Our first stop on Saturday was lunch at Reading Terminal Market, where K got his first authentic Philly cheese steak from Spataro’s and E ordered jambalaya and...","categories": [],
+        "tags": ["travel"],
+        "url": "/philadelphia-2021-07-24/",
+        "teaser": null
       }]
