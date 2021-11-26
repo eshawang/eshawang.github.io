@@ -166,4 +166,40 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2021-08-20/",
         "teaser": null
+      },{
+        "title": "Shokugeki no Kesha #4",
+        "excerpt":"September 4, 2021 E + K were late with their anniversary cook-off this year, but we finally found a weekend to duke it out. As is tradition, our menu items were held secret until our shopping trip to 99 Ranch and Trader Joe’s. K was in a Thai mood and...","categories": [],
+        "tags": ["travel"],
+        "url": "/newjersey-2021-09-04/",
+        "teaser": null
+      },{
+        "title": "Chicago Musical",
+        "excerpt":"September 18, 2021 E + K went to the city to watch Chicago The Musical at the Ambassador Theater on Broadway. Beforehand, we stopped by Té Company to buy a few boxes of Pineapple Linzer cookies as gifts for our upcoming trip to Norcal. For dinner, we went to Joe’s...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-09-18/",
+        "teaser": null
+      },{
+        "title": "P and L Visit NYC",
+        "excerpt":"October 8, 2021 - October 10, 2021 On Friday night, P and L came over to our apartment to stay the weekend. P and L are doctors in residency, and vacation days are hard to come by, so it was nice to see them after such a long time. That...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-10-08/",
+        "teaser": null
+      },{
+        "title": "Irene Visits NYC + Porgy and Bess",
+        "excerpt":"October 31, 2021 On Saturday, E + K went on a morning run at Liberty State Park. Afterwards, we got lunch at Café Dolma in downtown JC, where we ordered Poached Eggs with Kiymali, Sautéed Spinach with Labneh, and Fingerling Za’atar Potatoes. We went to Trader Joe’s to stock up...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-10-31/",
+        "teaser": null
+      },{
+        "title": "Designer of Dreams",
+        "excerpt":"November 20, 2021 E + K went to the Christian Dior: Designer of Dreams exhibit at the Brooklyn museum. On the way, we stopped by Los Tacos No. 1 for two adobada tacos and a horchata. We got the tacos loaded with everything, and K even used all three salsas...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-11-20/",
+        "teaser": null
+      },{
+        "title": "Thanksgiving",
+        "excerpt":"November 25, 2021 E + K did some homecooking for Thanksgiving this year after grocery shopping the day before. We started a chicken broil in the slow cooker on Thanksgiving eve, then added tofu knots, black fungus, and shiitake mushrooms in the morning. For lunch, we finished some leftover mozzarella...","categories": [],
+        "tags": ["travel"],
+        "url": "/newjersey-2021-11-25/",
+        "teaser": null
       }]
