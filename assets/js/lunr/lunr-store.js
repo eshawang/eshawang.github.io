@@ -160,4 +160,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2021-07-31/",
         "teaser": null
+      },{
+        "title": "Cissto visits Froniu",
+        "excerpt":"August 20, 2021 - August 21, 2021 Cissto visited us after seeing their family for the first time since the pandemic. E + K met them at Chelsea Market on Friday morning, where we kicked off our food tour with the standard Lobster Place picnic basket. We then swung through...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-08-20/",
+        "teaser": null
       }]
