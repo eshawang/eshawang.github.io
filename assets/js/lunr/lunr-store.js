@@ -154,4 +154,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/philadelphia-2021-07-24/",
         "teaser": null
+      },{
+        "title": "Shows in the City",
+        "excerpt":"July 31, 2021 - August 8, 2021 On Saturday morning, E + K went to Trader Joe’s to get some ingredients for watermelon + cucumber popsicles, which of course meant that we bought an extra two bags full of stuff (TJ’s OP). Then, we stopped by South Lions to pick...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-07-31/",
+        "teaser": null
       }]
