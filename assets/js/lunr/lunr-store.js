@@ -202,4 +202,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/newjersey-2021-11-25/",
         "teaser": null
+      },{
+        "title": "A",
+        "excerpt":"December 12, 2021 E + K went to the city on Sunday intending to do some Sephora returns and to look for gifts for the Arch-Meev (and of course, food!). Unfortunately, we forgot the returns at home, so we did not visit E’s favorite place. But we still had a...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2021-12-12/",
+        "teaser": null
       }]
