@@ -214,4 +214,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/arizona-2021-12-21/",
         "teaser": null
+      },{
+        "title": "Legendary Mutton Chop",
+        "excerpt":"January 13, 2022 Since K made the brilliant decision to get the both of us fake ‘rona on his birthday, E had to reschedule our reservation at Keen’s Steakhouse to Thursday night. Just two blocks from the 33rd Street PATH station, it was a quick trip on a chilly day....","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2022-01-13/",
+        "teaser": null
       }]
