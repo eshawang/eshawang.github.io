@@ -208,4 +208,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2021-12-12/",
         "teaser": null
+      },{
+        "title": "A rizona",
+        "excerpt":"December 15, 2021 - December 21, 2021 For the holidays this year, E + K planned a roadtrip across Arizona with Cissto, Meev, and Petri, meeting more FC friends IRL before the end of 2021. We got up super early for the first leg of our flight to Houston, but...","categories": [],
+        "tags": ["travel"],
+        "url": "/arizona-2021-12-21/",
+        "teaser": null
       }]
