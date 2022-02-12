@@ -5,6 +5,12 @@ var store = [{
         "url": "/techpost1/",
         "teaser": null
       },{
+        "title": "Dan and Jennifer's Engagement",
+        "excerpt":"April 15, 2017                                                                                   ","categories": [],
+        "tags": ["photography"],
+        "url": "/danandjennifer-2017-04-15/",
+        "teaser": null
+      },{
         "title": "Phoebe and Leon's Engagement",
         "excerpt":"September 8, 2019              ","categories": [],
         "tags": ["photography"],
