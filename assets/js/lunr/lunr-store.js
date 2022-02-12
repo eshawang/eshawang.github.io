@@ -5,34 +5,10 @@ var store = [{
         "url": "/techpost1/",
         "teaser": null
       },{
-        "title": "Tech Post 2",
-        "excerpt":"Header   This is tech post 2  ","categories": [],
-        "tags": ["tech"],
-        "url": "/techpost2/",
-        "teaser": null
-      },{
-        "title": "Tech Post 3",
-        "excerpt":"Header   This is tech post 3  ","categories": [],
-        "tags": ["tech"],
-        "url": "/techpost3/",
-        "teaser": null
-      },{
-        "title": "Tech Post 4",
-        "excerpt":"Header   This is tech post 4  ","categories": [],
-        "tags": ["tech"],
-        "url": "/techpost4/",
-        "teaser": null
-      },{
-        "title": "Tech Post 5",
-        "excerpt":"Header   This is tech post 5  ","categories": [],
-        "tags": ["tech"],
-        "url": "/techpost5/",
-        "teaser": null
-      },{
-        "title": "Tech Post 6",
-        "excerpt":"Header   This is tech post 6  ","categories": [],
-        "tags": ["tech"],
-        "url": "/techpost6/",
+        "title": "Phoebe and Leon's Engagement",
+        "excerpt":"September 8, 2019              ","categories": [],
+        "tags": ["photography"],
+        "url": "/phoebeandleon-2019-09-08/",
         "teaser": null
       },{
         "title": "Bougie in NYC",
@@ -45,66 +21,6 @@ var store = [{
         "excerpt":"December 23, 2020 - December 28, 2020 E + K landed in Seattle and drove to Mt. Rainier. We stayed in a small house in the forest with the best stocked fridge of any AirBnB. We were treated to smores, yogurt + granola, bagels, breakfast sandwiches, and more. The first...","categories": [],
         "tags": ["travel"],
         "url": "/seattle-2020-12-23/",
-        "teaser": null
-      },{
-        "title": "Photography Post 10",
-        "excerpt":"Header   This is photography post 10  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost10/",
-        "teaser": null
-      },{
-        "title": "Photography Post 2",
-        "excerpt":"Header   This is photography post 2  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost2/",
-        "teaser": null
-      },{
-        "title": "Photography Post 3",
-        "excerpt":"Header   This is photography post 3  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost3/",
-        "teaser": null
-      },{
-        "title": "Photography Post 4",
-        "excerpt":"Header   This is photography post 4  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost4/",
-        "teaser": null
-      },{
-        "title": "Photography Post 5",
-        "excerpt":"Header   This is photography post 5  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost5/",
-        "teaser": null
-      },{
-        "title": "Photography Post 6",
-        "excerpt":"Header   This is photography post 6  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost6/",
-        "teaser": null
-      },{
-        "title": "Photography Post 7",
-        "excerpt":"Header   This is photography post 7  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost7/",
-        "teaser": null
-      },{
-        "title": "Photography Post 8",
-        "excerpt":"Header   This is photography post 8  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost8/",
-        "teaser": null
-      },{
-        "title": "Photography Post 9",
-        "excerpt":"Header   This is photography post 9  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographypost9/",
-        "teaser": null
-      },{
-        "title": "Photography Post 3",
-        "excerpt":"Header   This is photography post 3  ","categories": [],
-        "tags": ["photography"],
-        "url": "/photographyposttest/",
         "teaser": null
       },{
         "title": "Unions and Reunions",
@@ -189,6 +105,12 @@ var store = [{
         "excerpt":"October 31, 2021 On Saturday, E + K went on a morning run at Liberty State Park. Afterwards, we got lunch at Café Dolma in downtown JC, where we ordered Poached Eggs with Kiymali, Sautéed Spinach with Labneh, and Fingerling Za’atar Potatoes. We went to Trader Joe’s to stock up...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2021-10-31/",
+        "teaser": null
+      },{
+        "title": "Snigdha and Udaya's Engagement",
+        "excerpt":"November 6, 2021                 ","categories": [],
+        "tags": ["photography"],
+        "url": "/snigdhaandudaya-2021-11-06/",
         "teaser": null
       },{
         "title": "Designer of Dreams",
