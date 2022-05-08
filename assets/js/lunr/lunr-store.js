@@ -148,4 +148,16 @@ var store = [{
         "tags": ["travel"],
         "url": "/newyork-2022-01-13/",
         "teaser": null
+      },{
+        "title": "New York Botanical Garden",
+        "excerpt":"March 20, 2022 E + K went to the Bronx to visit the New York Botanical Garden and see The Orchid Show: Jeff Leatham’s Kaleidoscope. The morning drive was relatively easy as we crossed the George Washington Bridge for the first time. We started our visit walking through the Perennial...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2022-03-20/",
+        "teaser": null
+      },{
+        "title": "Phoebe and Leon's Wedding",
+        "excerpt":"April 1, 2022 - April 4, 2022 On Friday night, E and K took the long flight from the east coast to LAX. K mostly slept along the way, while E stayed up to study for an interview coming up the following week. When we finally landed, and following an...","categories": [],
+        "tags": ["travel"],
+        "url": "/losangeles-2022-04-01/",
+        "teaser": null
       }]
