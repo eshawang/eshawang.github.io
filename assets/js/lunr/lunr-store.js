@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Phoebe and Leon's Engagement",
-        "excerpt":"September 8, 2019              ","categories": [],
+        "excerpt":"September 8, 2019                       ","categories": [],
         "tags": ["photography"],
         "url": "/phoebeandleon-2019-09-08/",
         "teaser": null
@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Snigdha and Udaya's Engagement",
-        "excerpt":"November 6, 2021                 ","categories": [],
+        "excerpt":"November 6, 2021                                      ","categories": [],
         "tags": ["photography"],
         "url": "/snigdhaandudaya-2021-11-06/",
         "teaser": null
@@ -159,5 +159,11 @@ var store = [{
         "excerpt":"April 1, 2022 - April 4, 2022 On Friday night, E and K took the long flight from the east coast to LAX. K mostly slept along the way, while E stayed up to study for an interview coming up the following week. When we finally landed, and following an...","categories": [],
         "tags": ["travel"],
         "url": "/losangeles-2022-04-01/",
+        "teaser": null
+      },{
+        "title": "E Visits Banff",
+        "excerpt":"May 11, 2022 - May 16, 2022 E started her month long funemployment with a trip to Banff and to visit Alm and Petite who lived nearby. It was E’s first international trip since the pandemic started, and the flight was out of JFK, so E allocated plenty of time...","categories": [],
+        "tags": ["travel"],
+        "url": "/banff-2022-05-11/",
         "teaser": null
       }]
