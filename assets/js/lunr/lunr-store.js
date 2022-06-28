@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bougie in NYC",
-        "excerpt":"December 20, 2020 E + K visited D + A in their new apartment in Dumbo, Brooklyn. We ordered delivery from Win Son. Then we took a walk, snapping a classic picture of the Brooklyn bridge. We stopped by One Girl Cookies for some very cutely named desserts (there was...","categories": [],
+        "excerpt":"December 20, 2020 E + K visited Danielle + Andrew in their new apartment in Dumbo, Brooklyn. We ordered delivery from Win Son. Then we took a walk, snapping a classic picture of the Brooklyn bridge. We stopped by One Girl Cookies for some very cutely named desserts (there was...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2020-12-20/",
         "teaser": null
@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Unions and Reunions",
-        "excerpt":"May 25, 2021 - June 1, 2021 After spending many months at home working, cooking, and playing FFXIV, E + K finally got vaccinated and visited Norcal to see friends and K’s family for the first time since moving to NJ a year ago. S and K’s parents picked us...","categories": [],
+        "excerpt":"May 25, 2021 - June 1, 2021 After spending many months at home working, cooking, and playing FFXIV, E + K finally got vaccinated and visited Norcal to see friends and K’s family for the first time since moving to NJ a year ago. Shirley and K’s parents picked us...","categories": [],
         "tags": ["travel"],
         "url": "/norcal-2021-05-25/",
         "teaser": null
@@ -59,8 +59,8 @@ var store = [{
         "url": "/poconos-2021-07-03/",
         "teaser": null
       },{
-        "title": "Meetup with PJ + IY",
-        "excerpt":"July 9, 2021 On Friday, E + K met up with PJ + IY in NYC. We visited Little Island near Chelsea, where we drank very unsweetened lemonade, watched an improv group, and laughed at New Yorkers taking pictures of the NJ skyline. Afterwards, IY left to hang out with...","categories": [],
+        "title": "Meetup with PJ + Iris",
+        "excerpt":"July 9, 2021 On Friday, E + K met up with PJ + Iris in NYC. We visited Little Island near Chelsea, where we drank very unsweetened lemonade, watched an improv group, and laughed at New Yorkers taking pictures of the NJ skyline. Afterwards, Iris left to hang out with...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2021-07-09/",
         "teaser": null
@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "FC Meetup in Philly",
-        "excerpt":"July 24, 2021 - July 25, 2021 E + K planned a trip to Philadelphia for the weekend to meet Relyx + A. Our first stop on Saturday was lunch at Reading Terminal Market, where K got his first authentic Philly cheese steak from Spataro’s and E ordered jambalaya and...","categories": [],
+        "excerpt":"July 24, 2021 - July 25, 2021 E + K planned a trip to Philadelphia for the weekend to meet Relyx + Angela. Our first stop on Saturday was lunch at Reading Terminal Market, where K got his first authentic Philly cheese steak from Spataro’s and E ordered jambalaya and...","categories": [],
         "tags": ["travel"],
         "url": "/philadelphia-2021-07-24/",
         "teaser": null
@@ -101,8 +101,8 @@ var store = [{
         "url": "/newyork-2021-09-18/",
         "teaser": null
       },{
-        "title": "P and L Visit NYC",
-        "excerpt":"October 8, 2021 - October 10, 2021 On Friday night, P and L came over to our apartment to stay the weekend. P and L are doctors in residency, and vacation days are hard to come by, so it was nice to see them after such a long time. That...","categories": [],
+        "title": "Phoebe and Leon Visit NYC",
+        "excerpt":"October 8, 2021 - October 10, 2021 On Friday night, Phoebe and Leon came over to our apartment to stay the weekend. Phoebe and Leon are doctors in residency, and vacation days are hard to come by, so it was nice to see them after such a long time. That...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2021-10-08/",
         "teaser": null
@@ -140,7 +140,7 @@ var store = [{
         "title": "A rizona",
         "excerpt":"December 15, 2021 - December 21, 2021 For the holidays this year, E + K planned a roadtrip across Arizona with Cissto, Meev, and Petri, meeting more FC friends IRL before the end of 2021. We got up super early for the first leg of our flight to Houston, but...","categories": [],
         "tags": ["travel"],
-        "url": "/arizona-2021-12-21/",
+        "url": "/arizona-2021-12-15/",
         "teaser": null
       },{
         "title": "Legendary Mutton Chop",
@@ -159,6 +159,12 @@ var store = [{
         "excerpt":"April 1, 2022 - April 4, 2022 On Friday night, E and K took the long flight from the east coast to LAX. K mostly slept along the way, while E stayed up to study for an interview coming up the following week. When we finally landed, and following an...","categories": [],
         "tags": ["travel"],
         "url": "/losangeles-2022-04-01/",
+        "teaser": null
+      },{
+        "title": "K in NorcAAAAAl",
+        "excerpt":"April 29, 2022 - May 8, 2022 At the end of April, K left his job at Bell Labs and began a month and a half of funemployment. Leaving his lovely gf and kitties behind, K flew into SFO (no direct flights to SJC wtf), where he was picked up...","categories": [],
+        "tags": ["travel"],
+        "url": "/norcal-2022-04-29/",
         "teaser": null
       },{
         "title": "E Visits Banff",
