@@ -172,4 +172,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/banff-2022-05-11/",
         "teaser": null
+      },{
+        "title": "E's Birthday Weekend",
+        "excerpt":"June 25, 2022 - June 26, 2022 Kelvin flew back from his onboarding in Austin the night before Esha’s 29th birthday. As he continued his homework of reading TGCF on the plane, he was inspired to draw her a birthday card on his tablet. His neighbor asked if he was...","categories": [],
+        "tags": ["travel"],
+        "url": "/newyork-2022-06-25/",
+        "teaser": null
       }]
