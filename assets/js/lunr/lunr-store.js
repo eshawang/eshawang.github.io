@@ -167,6 +167,12 @@ var store = [{
         "url": "/norcal-2022-04-29/",
         "teaser": null
       },{
+        "title": "HaWhyI",
+        "excerpt":"May 9, 2022 - May 15, 2022 Kelvin arrived in Kona after finishing book 2 of TGCF. Shir and Joelanda grabbed him from the airport where he was already suffering the blast of Hawaii summer humidity. Expecting lush greenery, they instead drove past lots and lots of lava rock on...","categories": [],
+        "tags": ["travel"],
+        "url": "/hawaii-2022-05-09/",
+        "teaser": null
+      },{
         "title": "E Visits Banff",
         "excerpt":"May 11, 2022 - May 16, 2022 E started her month long funemployment with a trip to Banff and to visit Alm and Petite who lived nearby. It was E’s first international trip since the pandemic started, and the flight was out of JFK, so E allocated plenty of time...","categories": [],
         "tags": ["travel"],
@@ -183,5 +189,11 @@ var store = [{
         "excerpt":"July 22, 2022 - July 24, 2022 Esha wanted Mango Mango Dessert to celebrate the end of another work week, so she and Kelvin took the PATH to Hoboken on Friday evening. As they strolled down Washington St., they made a couple of short stops. First, they were drawn into...","categories": [],
         "tags": ["travel"],
         "url": "/newyork-2022-07-22/",
+        "teaser": null
+      },{
+        "title": "Shokugeki no Kesha: The Sixth Plate",
+        "excerpt":"August 14, 2022 Esha and Kelvin’s sixth(?)(!) anniversary cook-off competition came a week late since Esha was supposed to visit Chicago; her flight there was canceled but they stayed in and stress-ate instead. Wait, that wasn’t that different from competition day. Anyway… As usual, each person prepared a main dish,...","categories": [],
+        "tags": ["travel"],
+        "url": "/shokugeki-2022-08-14/",
         "teaser": null
       }]
