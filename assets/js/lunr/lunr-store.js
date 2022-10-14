@@ -7,19 +7,19 @@ var store = [{
       },{
         "title": "Dan and Jennifer's Engagement",
         "excerpt":"April 15, 2017                                                                                   ","categories": [],
-        "tags": ["photography"],
+        "tags": ["art"],
         "url": "/danandjennifer-2017-04-15/",
         "teaser": null
       },{
         "title": "Phoebe and Leon's Engagement",
         "excerpt":"September 8, 2019                       ","categories": [],
-        "tags": ["photography"],
+        "tags": ["art"],
         "url": "/phoebeandleon-2019-09-08/",
         "teaser": null
       },{
         "title": "Bougie in NYC",
         "excerpt":"December 20, 2020 E + K visited Danielle + Andrew in their new apartment in Dumbo, Brooklyn. We ordered delivery from Win Son. Then we took a walk, snapping a classic picture of the Brooklyn bridge. We stopped by One Girl Cookies for some very cutely named desserts (there was...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2020-12-20/",
         "teaser": null
       },{
@@ -37,19 +37,19 @@ var store = [{
       },{
         "title": "An Immersive NYC Experience",
         "excerpt":"June 12, 2021 E + K took the train to 14th street and got their first cronut ever from The Donut Pub. Our original plan was to grab the usual staples from Chelsea Market (lobster roll from The Lobster Place, dumplings from Mokbar Korean Grub), but were enticed by a...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-06-12/",
         "teaser": null
       },{
         "title": "Visit to MoMA",
         "excerpt":"June 18, 2021 On Friday, E finished up a final presentation for her MCL project, and K had all his meetings canceled, so we went to the city for the afternoon. We stopped in at McNulty’s and got some Longjing tea leaves. K found a cute side street called 6-½th...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-06-18/",
         "teaser": null
       },{
         "title": "E's Birthday Weekend",
         "excerpt":"June 25, 2021 For E’s birthday, K planned an evening out in Greenwich Village. Right off the 9th street station, we visited Té Company for a box of Pineapple Linzer cookies before our dinner reservation at Pinto Garden. K did something embarrassing once again and was punished by E ordering...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-06-25/",
         "teaser": null
       },{
@@ -61,13 +61,13 @@ var store = [{
       },{
         "title": "Meetup with PJ + Iris",
         "excerpt":"July 9, 2021 On Friday, E + K met up with PJ + Iris in NYC. We visited Little Island near Chelsea, where we drank very unsweetened lemonade, watched an improv group, and laughed at New Yorkers taking pictures of the NJ skyline. Afterwards, Iris left to hang out with...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-07-09/",
         "teaser": null
       },{
         "title": "Rainy day at Smorgasburg",
         "excerpt":"July 17, 2021 - July 18, 2021 E + K started their Saturday with a morning swim at the pool, then headed to Smorgasburg in Jersey City to offset the brutal calorie loss. We started with a Classico and spinach fried risotto balls from The Little Sicilian, then ordered a...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/smorgasburg-2021-07-17/",
         "teaser": null
       },{
@@ -79,61 +79,61 @@ var store = [{
       },{
         "title": "Shows in the City",
         "excerpt":"July 31, 2021 - August 8, 2021 On Saturday morning, E + K went to Trader Joe’s to get some ingredients for watermelon + cucumber popsicles, which of course meant that we bought an extra two bags full of stuff (TJ’s OP). Then, we stopped by South Lions to pick...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-07-31/",
         "teaser": null
       },{
         "title": "Cissto visits Froniu",
         "excerpt":"August 20, 2021 - August 21, 2021 Cissto visited us after seeing their family for the first time since the pandemic. E + K met them at Chelsea Market on Friday morning, where we kicked off our food tour with the standard Lobster Place picnic basket. We then swung through...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-08-20/",
         "teaser": null
       },{
-        "title": "Shokugeki no Kesha #4",
+        "title": "Shokugeki no Kesha: The Fifth Plate",
         "excerpt":"September 4, 2021 E + K were late with their anniversary cook-off this year, but we finally found a weekend to duke it out. As is tradition, our menu items were held secret until our shopping trip to 99 Ranch and Trader Joe’s. K was in a Thai mood and...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newjersey-2021-09-04/",
         "teaser": null
       },{
         "title": "Chicago Musical",
         "excerpt":"September 18, 2021 E + K went to the city to watch Chicago The Musical at the Ambassador Theater on Broadway. Beforehand, we stopped by Té Company to buy a few boxes of Pineapple Linzer cookies as gifts for our upcoming trip to Norcal. For dinner, we went to Joe’s...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-09-18/",
         "teaser": null
       },{
         "title": "Phoebe and Leon Visit NYC",
         "excerpt":"October 8, 2021 - October 10, 2021 On Friday night, Phoebe and Leon came over to our apartment to stay the weekend. Phoebe and Leon are doctors in residency, and vacation days are hard to come by, so it was nice to see them after such a long time. That...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-10-08/",
         "teaser": null
       },{
         "title": "Irene Visits NYC + Porgy and Bess",
         "excerpt":"October 31, 2021 On Saturday, E + K went on a morning run at Liberty State Park. Afterwards, we got lunch at Café Dolma in downtown JC, where we ordered Poached Eggs with Kiymali, Sautéed Spinach with Labneh, and Fingerling Za’atar Potatoes. We went to Trader Joe’s to stock up...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-10-31/",
         "teaser": null
       },{
         "title": "Snigdha and Udaya's Engagement",
         "excerpt":"November 6, 2021                                      ","categories": [],
-        "tags": ["photography"],
+        "tags": ["art"],
         "url": "/snigdhaandudaya-2021-11-06/",
         "teaser": null
       },{
         "title": "Designer of Dreams",
         "excerpt":"November 20, 2021 E + K went to the Christian Dior: Designer of Dreams exhibit at the Brooklyn museum. On the way, we stopped by Los Tacos No. 1 for two adobada tacos and a horchata. We got the tacos loaded with everything, and K even used all three salsas...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-11-20/",
         "teaser": null
       },{
         "title": "Thanksgiving",
         "excerpt":"November 25, 2021 E + K did some homecooking for Thanksgiving this year after grocery shopping the day before. We started a chicken broil in the slow cooker on Thanksgiving eve, then added tofu knots, black fungus, and shiitake mushrooms in the morning. For lunch, we finished some leftover mozzarella...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newjersey-2021-11-25/",
         "teaser": null
       },{
         "title": "A",
         "excerpt":"December 12, 2021 E + K went to the city on Sunday intending to do some Sephora returns and to look for gifts for the Arch-Meev (and of course, food!). Unfortunately, we forgot the returns at home, so we did not visit E’s favorite place. But we still had a...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2021-12-12/",
         "teaser": null
       },{
@@ -145,13 +145,13 @@ var store = [{
       },{
         "title": "Legendary Mutton Chop",
         "excerpt":"January 13, 2022 Since K made the brilliant decision to get the both of us fake ‘rona on his birthday, E had to reschedule our reservation at Keen’s Steakhouse to Thursday night. Just two blocks from the 33rd Street PATH station, it was a quick trip on a chilly day....","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2022-01-13/",
         "teaser": null
       },{
         "title": "New York Botanical Garden",
         "excerpt":"March 20, 2022 E + K went to the Bronx to visit the New York Botanical Garden and see The Orchid Show: Jeff Leatham’s Kaleidoscope. The morning drive was relatively easy as we crossed the George Washington Bridge for the first time. We started our visit walking through the Perennial...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2022-03-20/",
         "teaser": null
       },{
@@ -181,19 +181,25 @@ var store = [{
       },{
         "title": "E's Birthday Weekend",
         "excerpt":"June 25, 2022 - June 26, 2022 Kelvin flew back from his onboarding in Austin the night before Esha’s 29th birthday. As he continued his homework of reading TGCF on the plane, he was inspired to draw her a birthday card on his tablet. His neighbor asked if he was...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2022-06-25/",
         "teaser": null
       },{
         "title": "Mangos, Memes & Musicals",
         "excerpt":"July 22, 2022 - July 24, 2022 Esha wanted Mango Mango Dessert to celebrate the end of another work week, so she and Kelvin took the PATH to Hoboken on Friday evening. As they strolled down Washington St., they made a couple of short stops. First, they were drawn into...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/newyork-2022-07-22/",
         "teaser": null
       },{
         "title": "Shokugeki no Kesha: The Sixth Plate",
         "excerpt":"August 14, 2022 Esha and Kelvin’s sixth(?)(!) anniversary cook-off competition came a week late since Esha was supposed to visit Chicago; her flight there was canceled but they stayed in and stress-ate instead. Wait, that wasn’t that different from competition day. Anyway… As usual, each person prepared a main dish,...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/shokugeki-2022-08-14/",
+        "teaser": null
+      },{
+        "title": "Farm to Table to Mountain",
+        "excerpt":"September 24, 2022 Kelvin made a brunch reservation at Blooming Hill Farm on Saturday, so he and Esha drove upstate for some delicious farm to table dining. The restaurant area was large and spacious, with tons of potted and hanging plants that Esha wanted to take home. They were seated...","categories": [],
+        "tags": ["life"],
+        "url": "/newyork-2022-09-24/",
         "teaser": null
       }]
