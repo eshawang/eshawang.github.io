@@ -202,4 +202,10 @@ var store = [{
         "tags": ["life"],
         "url": "/newyork-2022-09-24/",
         "teaser": null
+      },{
+        "title": "A Dejen Wedding",
+        "excerpt":"October 8, 2022 - October 11, 2022 Esha and Kelvin made a short SoCal trip out of their last wedding of the year. Flying into SD, Kelvin was literally bouncing in anticipation of their first meal at Lucha Libre. They got there right at opening time and ordered their usual...","categories": [],
+        "tags": ["travel"],
+        "url": "/socal-2022-10-08/",
+        "teaser": null
       }]
