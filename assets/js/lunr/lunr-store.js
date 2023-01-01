@@ -179,6 +179,12 @@ var store = [{
         "url": "/banff-2022-05-11/",
         "teaser": null
       },{
+        "title": "Memorial Weekend FC Meetup",
+        "excerpt":"May 28, 2022 - May 31, 2022 May was a busy month for Esha and Kelvin, and the morning after we got back from Italy, we hosted Ciss, Ulto, and Cyvina, who were visiting from NorCal for the weekend. On Saturday morning, Kelvin drove to pick up our guests from...","categories": [],
+        "tags": ["life"],
+        "url": "/newyork-2022-05-28/",
+        "teaser": null
+      },{
         "title": "E's Birthday Weekend",
         "excerpt":"June 25, 2022 - June 26, 2022 Kelvin flew back from his onboarding in Austin the night before Esha’s 29th birthday. As he continued his homework of reading TGCF on the plane, he was inspired to draw her a birthday card on his tablet. His neighbor asked if he was...","categories": [],
         "tags": ["life"],
@@ -207,5 +213,35 @@ var store = [{
         "excerpt":"October 8, 2022 - October 11, 2022 Esha and Kelvin made a short SoCal trip out of their last wedding of the year. Flying into SD, Kelvin was literally bouncing in anticipation of their first meal at Lucha Libre. They got there right at opening time and ordered their usual...","categories": [],
         "tags": ["travel"],
         "url": "/socal-2022-10-08/",
+        "teaser": null
+      },{
+        "title": "Fall Things",
+        "excerpt":"October 16, 2022 - November 19, 2022 Fall season was very busy for Esha and Kelvin, as many friends visited NY from out of town. On 10/16, they went to The Rubin Museum with Steven and Evelyn to see a new exhibit about Himalayan culture and art. Amongst numerous paintings...","categories": [],
+        "tags": ["life"],
+        "url": "/newyork-2022-10-16/",
+        "teaser": null
+      },{
+        "title": "Food, Gloves, and Bean Bags",
+        "excerpt":"December 2, 2022 - December 4, 2022 The weekend after Thanksgiving, Esha and Kelvin decided to catch up with some old friends and explore some new restaurants in the city. On Friday, they went to RealReal for Esha to consign some clothing items while Kelvin chilled on the boyfriend couch....","categories": [],
+        "tags": ["life"],
+        "url": "/newyork-2022-12-02/",
+        "teaser": null
+      },{
+        "title": "Edison Eats",
+        "excerpt":"December 12, 2022 On Monday, Janet flew to the east coast for work, and planned to meet up with Esha and Kelvin for dessert in Edison. After the work day was over, we first drove to US-1 Authentic Shanghai Dumpling in Edison for dinner, recommended by one of Esha’s coworkers....","categories": [],
+        "tags": ["life"],
+        "url": "/newjersey-2022-12-12/",
+        "teaser": null
+      },{
+        "title": "Austin x2",
+        "excerpt":"November 24, 2022 - December 16, 2022 For Thanksgiving this year, Esha joined Kelvin (who flew in early for work) in Austin to hang out and cook with Joel and Amanda. The morning of, Amanda made simple but delicious Taiwanese pancakes with egg and pumpkin floss, and Kelvin helped construct...","categories": [],
+        "tags": ["travel"],
+        "url": "/austin-2022-11-24/",
+        "teaser": null
+      },{
+        "title": "Ozu",
+        "excerpt":"December 17, 2022 After the end of a busy work week, Esha wanted to get out of the apartment for a bit, so Kelvin found a restaurant in The Heights called Ozu which had pretty good reviews. When we arrived, we were surprised that the place was very hole-in-the-wall, and...","categories": [],
+        "tags": ["life"],
+        "url": "/newjersey-2022-12-17/",
         "teaser": null
       }]
