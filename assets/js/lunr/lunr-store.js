@@ -244,4 +244,10 @@ var store = [{
         "tags": ["life"],
         "url": "/newjersey-2022-12-17/",
         "teaser": null
+      },{
+        "title": "Christmas in Chicago",
+        "excerpt":"December 24, 2022 - December 31, 2022 For the holidays this year, Esha and Kelvin planned to fly into Chicago for a week to meet up with Kelvin’s family, who they hadn’t seen in person together in quite a while. Unfortunately, Janet and Lindsay were visiting Paris at the same...","categories": [],
+        "tags": ["travel"],
+        "url": "/chicago-2022-12-24/",
+        "teaser": null
       }]
