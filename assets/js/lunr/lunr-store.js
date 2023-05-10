@@ -31,7 +31,7 @@ var store = [{
       },{
         "title": "Unions and Reunions",
         "excerpt":"May 25, 2021 - June 1, 2021 After spending many months at home working, cooking, and playing FFXIV, E + K finally got vaccinated and visited Norcal to see friends and K’s family for the first time since moving to NJ a year ago. Shirley and K’s parents picked us...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/norcal-2021-05-25/",
         "teaser": null
       },{
@@ -55,8 +55,8 @@ var store = [{
       },{
         "title": "Independence Day in the Poconos",
         "excerpt":"July 3, 2021 - July 5, 2021 For the July 4th weekend, E + K planned a nice, naturey getaway to the Poconos. On Saturday morning, K grabbed breakfast from Philippine Bread House, and E happily woke up to the sight of lumpia, pork adobo, and sausage with eggs. After...","categories": [],
-        "tags": ["travel"],
-        "url": "/poconos-2021-07-03/",
+        "tags": ["life"],
+        "url": "/pennsylvania-2021-07-03/",
         "teaser": null
       },{
         "title": "Meetup with PJ + Iris",
@@ -68,13 +68,13 @@ var store = [{
         "title": "Rainy day at Smorgasburg",
         "excerpt":"July 17, 2021 - July 18, 2021 E + K started their Saturday with a morning swim at the pool, then headed to Smorgasburg in Jersey City to offset the brutal calorie loss. We started with a Classico and spinach fried risotto balls from The Little Sicilian, then ordered a...","categories": [],
         "tags": ["life"],
-        "url": "/smorgasburg-2021-07-17/",
+        "url": "/newjersey-2021-07-17/",
         "teaser": null
       },{
         "title": "FC Meetup in Philly",
         "excerpt":"July 24, 2021 - July 25, 2021 E + K planned a trip to Philadelphia for the weekend to meet Relyx + Angela. Our first stop on Saturday was lunch at Reading Terminal Market, where K got his first authentic Philly cheese steak from Spataro’s and E ordered jambalaya and...","categories": [],
-        "tags": ["travel"],
-        "url": "/philadelphia-2021-07-24/",
+        "tags": ["life"],
+        "url": "/pennsylvania-2021-07-24/",
         "teaser": null
       },{
         "title": "Shows in the City",
@@ -157,13 +157,13 @@ var store = [{
       },{
         "title": "Phoebe and Leon's Wedding",
         "excerpt":"April 1, 2022 - April 4, 2022 On Friday night, E and K took the long flight from the east coast to LAX. K mostly slept along the way, while E stayed up to study for an interview coming up the following week. When we finally landed, and following an...","categories": [],
-        "tags": ["travel"],
-        "url": "/losangeles-2022-04-01/",
+        "tags": ["life"],
+        "url": "/socal-2022-04-01/",
         "teaser": null
       },{
         "title": "K in NorcAAAAAl",
         "excerpt":"April 29, 2022 - May 8, 2022 At the end of April, K left his job at Bell Labs and began a month and a half of funemployment. Leaving his lovely gf and kitties behind, K flew into SFO (no direct flights to SJC wtf), where he was picked up...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/norcal-2022-04-29/",
         "teaser": null
       },{
@@ -176,7 +176,7 @@ var store = [{
         "title": "E Visits Banff",
         "excerpt":"May 11, 2022 - May 16, 2022 E started her month long funemployment with a trip to Banff and to visit Alm and Petite who lived nearby. It was E’s first international trip since the pandemic started, and the flight was out of JFK, so E allocated plenty of time...","categories": [],
         "tags": ["travel"],
-        "url": "/banff-2022-05-11/",
+        "url": "/canada-2022-05-11/",
         "teaser": null
       },{
         "title": "Memorial Weekend FC Meetup",
@@ -200,7 +200,7 @@ var store = [{
         "title": "Shokugeki no Kesha: The Sixth Plate",
         "excerpt":"August 14, 2022 Esha and Kelvin’s sixth(?)(!) anniversary cook-off competition came a week late since Esha was supposed to visit Chicago; her flight there was canceled but they stayed in and stress-ate instead. Wait, that wasn’t that different from competition day. Anyway… As usual, each person prepared a main dish,...","categories": [],
         "tags": ["life"],
-        "url": "/shokugeki-2022-08-14/",
+        "url": "/newjersey-2022-08-14/",
         "teaser": null
       },{
         "title": "Farm to Table to Mountain",
@@ -211,7 +211,7 @@ var store = [{
       },{
         "title": "A Dejen Wedding",
         "excerpt":"October 8, 2022 - October 11, 2022 Esha and Kelvin made a short SoCal trip out of their last wedding of the year. Flying into SD, Kelvin was literally bouncing in anticipation of their first meal at Lucha Libre. They got there right at opening time and ordered their usual...","categories": [],
-        "tags": ["travel"],
+        "tags": ["life"],
         "url": "/socal-2022-10-08/",
         "teaser": null
       },{
@@ -235,8 +235,8 @@ var store = [{
       },{
         "title": "Austin x2",
         "excerpt":"November 24, 2022 - December 16, 2022 For Thanksgiving this year, Esha joined Kelvin (who flew in early for work) in Austin to hang out and cook with Joel and Amanda. The morning of, Amanda made simple but delicious Taiwanese pancakes with egg and pumpkin floss, and Kelvin helped construct...","categories": [],
-        "tags": ["travel"],
-        "url": "/austin-2022-11-24/",
+        "tags": ["life"],
+        "url": "/texas-2022-11-24/",
         "teaser": null
       },{
         "title": "Ozu",
@@ -249,5 +249,23 @@ var store = [{
         "excerpt":"December 24, 2022 - December 31, 2022 For the holidays this year, Esha and Kelvin planned to fly into Chicago for a week to meet up with Kelvin’s family, who they hadn’t seen in person together in quite a while. Unfortunately, Janet and Lindsay were visiting Paris at the same...","categories": [],
         "tags": ["travel"],
         "url": "/chicago-2022-12-24/",
+        "teaser": null
+      },{
+        "title": "Gramercy, Kansas City, QP Ski Trip",
+        "excerpt":"January 2023 Esha and Kelvin went to the difficult-to-book Gramercy Tavern to celebrate Kelvin’s birthday. Though they were still a bit sniffly from their post-Chicago colds, they looked forward to the famous cocktails and burger. The restaurant ambience was great, as they were seated at a cozy table near the...","categories": [],
+        "tags": ["life"],
+        "url": "/jan2023-2023-01-01/",
+        "teaser": null
+      },{
+        "title": "Valentine’s Noms",
+        "excerpt":"February 2023 February was a month of new cooking and new eats. Kelvin refined a tofu stew recipe with konjac and napa cabbage, and Esha recreated the miso sesame tofu they had liked from Her Name is Han. They also tried Sugarfish in NYC, which had a (Nozawa) Trust Me...","categories": [],
+        "tags": ["life"],
+        "url": "/feb2023-2023-02-01/",
+        "teaser": null
+      },{
+        "title": "Lynbros and Our Nation’s Beloved Kappital",
+        "excerpt":"March 2023 March marked the beginning of Esha’s new handbag saga, which involved many trips to Neiman Marcus at the Short Hills mall. For Kelvin, this meant trying more restaurants in the NJ suburbs, such as new Greek favorite Souvlaqueria and the only Mongolian BBQ in Northeast NJ, Magic Grill....","categories": [],
+        "tags": ["life"],
+        "url": "/mar2023-2023-03-01/",
         "teaser": null
       }]
