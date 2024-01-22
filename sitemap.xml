@@ -182,7 +182,11 @@
 </url>
 <url>
 <loc>/apr2023-2023-04-01/</loc>
-<lastmod>2023-04-30T00:00:00-04:00</lastmod>
+<lastmod>2023-04-21T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/apr2023-2023-05-03/</loc>
+<lastmod>2023-04-24T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>/about/</loc>
@@ -255,6 +259,9 @@
 </url>
 <url>
 <loc>/travel/</loc>
+</url>
+<url>
+<loc>/travel/page/2/</loc>
 </url>
 <url>
 <loc>/Esha_Wang_May2023.pdf</loc>
