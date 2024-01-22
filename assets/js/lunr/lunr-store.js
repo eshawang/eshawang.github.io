@@ -179,6 +179,12 @@ var store = [{
         "url": "/canada-2022-05-11/",
         "teaser": null
       },{
+        "title": "Italy",
+        "excerpt":"May 17, 2022 - May 27, 2022    ","categories": [],
+        "tags": ["travel"],
+        "url": "/italy-2022-05-27/",
+        "teaser": null
+      },{
         "title": "Memorial Weekend FC Meetup",
         "excerpt":"May 28, 2022 - May 31, 2022 May was a busy month for Esha and Kelvin, and the morning after we got back from Italy, we hosted Ciss, Ulto, and Cyvina, who were visiting from NorCal for the weekend. On Saturday morning, Kelvin drove to pick up our guests from...","categories": [],
         "tags": ["life"],
@@ -254,13 +260,13 @@ var store = [{
         "title": "Gramercy, Kansas City, QP Ski Trip",
         "excerpt":"January 2023 Esha and Kelvin went to the difficult-to-book Gramercy Tavern to celebrate Kelvin’s birthday. Though they were still a bit sniffly from their post-Chicago colds, they looked forward to the famous cocktails and burger. The restaurant ambience was great, as they were seated at a cozy table near the...","categories": [],
         "tags": ["life"],
-        "url": "/jan2023-2023-01-01/",
+        "url": "/januarythings-2023-01-01/",
         "teaser": null
       },{
         "title": "Valentine’s Noms",
         "excerpt":"February 2023 February was a month of new cooking and new eats. Kelvin refined a tofu stew recipe with konjac and napa cabbage, and Esha recreated the miso sesame tofu they had liked from Her Name is Han. They also tried Sugarfish in NYC, which had a (Nozawa) Trust Me...","categories": [],
         "tags": ["life"],
-        "url": "/feb2023-2023-02-01/",
+        "url": "/valentine-2023-02-01/",
         "teaser": null
       },{
         "title": "Lynbros and Our Nation’s Beloved Kappital",
@@ -272,12 +278,12 @@ var store = [{
         "title": "Cheap Eats NYC",
         "excerpt":"April 2023 Esha and Kelvin found out through the powers of “SFbruhs” that Julian and Yukari had been living in NJ/NY for the past two years. Flabbergasted, they all met up in midtown for lunch at Barn Joo and caught up over a delicious sake flight and way too much...","categories": [],
         "tags": ["life"],
-        "url": "/apr2023-2023-04-01/",
+        "url": "/newyork-2023-04-01/",
         "teaser": null
       },{
         "title": "Japan 2023 - In Which Two Old Bodies Visit Three Cat Cafes and Walk Fourteen Miles in One Day",
         "excerpt":"April 24, 2023 - May 3, 2023 It was a long flight from Newark to Tokyo, and as comfortable as having a large snoring Samoan man asleep on one’s shoulder could be. Between pushing off the heavy advances and the mid airplane food, which Esha kept squirreling and/or forcing Kelvin...","categories": [],
         "tags": ["travel"],
-        "url": "/apr2023-2023-05-03/",
+        "url": "/japan-2023-05-03/",
         "teaser": null
       }]
