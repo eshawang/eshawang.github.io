@@ -276,7 +276,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Japan 2023 - In Which Two Old Bodies Visit Three Cat Cafes and Walk Fourteen Miles in One Day",
-        "excerpt":"April 2023 It was a long flight from Newark to Tokyo, and as comfortable as having a large snoring Samoan man asleep on one’s shoulder could be. Between pushing off the heavy advances and the mid airplane food, which Esha kept squirreling and/or forcing Kelvin to eat, they squeezed in...","categories": [],
+        "excerpt":"April 24, 2023 - May 3, 2023 It was a long flight from Newark to Tokyo, and as comfortable as having a large snoring Samoan man asleep on one’s shoulder could be. Between pushing off the heavy advances and the mid airplane food, which Esha kept squirreling and/or forcing Kelvin...","categories": [],
         "tags": ["travel"],
         "url": "/apr2023-2023-05-03/",
         "teaser": null
