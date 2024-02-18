@@ -286,4 +286,10 @@ var store = [{
         "tags": ["travel"],
         "url": "/japan-2023-04-24/",
         "teaser": null
+      },{
+        "title": "May Things - Afternoon Acres, Xi'an Food, and QP Trip",
+        "excerpt":"May 6, 2023 - May 28, 2023 Still jetlagged from Japan, Esha and Kelvin had a big and early breakfast at Philippine Bread House consisting of the longsilog combo, veggie lumpia, BBQ pork skewer, ube hopia, mongo bread, and large coffee blend! After eating their fill, they got ready to...","categories": [],
+        "tags": ["life"],
+        "url": "/newyork-2023-05-06/",
+        "teaser": null
       }]
