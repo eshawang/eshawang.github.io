@@ -292,4 +292,10 @@ var store = [{
         "tags": ["life"],
         "url": "/newyork-2023-05-06/",
         "teaser": null
+      },{
+        "title": "It's been a while...",
+        "excerpt":"Jun 25, 2023 - June 25, 2024 happy birthday hoons, sorry i’ve been so busy and haven’t updated our blog, but here are some of my favorite photos of you (and sometimes me…and sometimes food…and most of the time a cat) from this past year! excited to eat and hike!...","categories": [],
+        "tags": ["life"],
+        "url": "/bday-2024/",
+        "teaser": null
       }]
